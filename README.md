@@ -7,13 +7,12 @@
 
 <h1 align="center">Hi 👋, I'm Ganesh Shimpi a.k.a <span style="color:#00bfff"><strong>Ganesh-DA</strong></span></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=435&lines=Data+Science+%7C+AI+%7C+ML+Engineer;Python+Developer+%7C+Power+BI+Designer;Welcome+to+my+GitHub+Profile!+💻" alt="Typing SVG" />
-</p>
+<h3 align="center">🔬 Data Science | 🧠 Machine Learning | 📊 Power BI Developer</h3>
+<h4 align="center">Welcome to my GitHub Profile! 💻</h4>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 BSc IT graduate from Mumbai University | Specializing in Data Science & AI  
 🔍 Focused on **Machine Learning**, **Data Visualization**, and **AI for Impact**  
